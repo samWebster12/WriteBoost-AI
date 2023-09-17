@@ -1,0 +1,12 @@
+<div style="">
+  <script src="{{ 'html.js' | asset_url }}" defer></script>
+  <script src="{{ 'javascript.js' | asset_url }}" defer></script>
+  {{ 'main-output.css' | asset_url | stylesheet_tag }}
+</div>
+{% schema %}
+{
+  "name": "App Embed",
+  "target": "body",
+  "settings": []
+}
+{% endschema %}
