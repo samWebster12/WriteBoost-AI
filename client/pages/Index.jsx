@@ -91,7 +91,7 @@ export default function HomePage() {
                   <List type="number">
                     <List.Item>
                       <Text variant="bodyMd" as="p">
-                        Enable WriteBoost AI by the click the "Enable/Disable" button above.
+                        Enable WriteBoost AI by clicking the "Enable/Disable" button above.
                       </Text>
                     </List.Item>
                     <List.Item>

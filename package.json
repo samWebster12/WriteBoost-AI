@@ -19,7 +19,7 @@
     "dev:server": "NODE_ENV=dev nodemon server/index.js --ignore client/ --ignore dist/",
     "dev:client": "vite --config=./client/vite.config.cjs",
     "preserve": "npm run build",
-    "build": "",
+    "build": "vite build --config=./client/vite.config.cjs",
     "start": "NODE_ENV=prod node server/index.js",
     "pretty": "prettier --write .",
     "ngrok:auth": "ngrok authtoken <your-auth-token>",
