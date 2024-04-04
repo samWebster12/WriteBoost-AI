@@ -5,7 +5,7 @@ A Shopify App that allows Shopify Merchants to generate text directly within the
 
 ## Features
 
-<img src="writeboost.png" style="width: 300px; height: 300px;"/>
+<img src="writeboost.png" style="width: 70%;"/>
 
 - Create custom text through specfic instructions \(Ex. "Give me a new heading for the description about my pizza company"\)
 - Simpify the language of the text in a single click
